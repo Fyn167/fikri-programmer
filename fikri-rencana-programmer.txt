@@ -4,10 +4,12 @@ RENCANA MENJADI PROGRAMMER
 
 -JAVASCRIPT
   -> Framework Javascript
+      -> Angular
+      -> React
 -PHP FRAMEWORK
+      -> Laravel
 -PYTHON
 -C#
 -GIT & GITHUB
 -HTML
 -FLUTTER
--Struktur Data Dasar
