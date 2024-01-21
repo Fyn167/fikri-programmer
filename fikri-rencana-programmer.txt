@@ -4,7 +4,10 @@ RENCANA MENJADI PROGRAMMER
 
 -JAVASCRIPT
   -> Framework Javascript
+      -> VUE
+      -> React
 -PHP FRAMEWORK
+  -> LARAVEL
 -PYTHON
 -C#
 -GIT & GITHUB
